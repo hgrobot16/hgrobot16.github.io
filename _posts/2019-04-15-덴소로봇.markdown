@@ -6,7 +6,9 @@ author: HG
 categories: Robot
 ---
 
-<img src="https://github.com/hgrobot16/hgrobot16.github.io/blob/master/assets/images/cobotta.png">
+<a href="http://www.hangukrobot.com">
+  <img src="http://www.hangukrobot.com/images/shop/1552886935_WpCo_0.JPG">
+</a>
 
 자동차부품제조 생산성 향상을 목표로 덴소 로봇의 개발을 시작한지 50년.
 
