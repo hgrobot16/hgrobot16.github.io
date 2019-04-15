@@ -6,7 +6,7 @@ author: HG
 categories: Robot
 ---
 
-<a href="http://www.hangukrobot.com">
+<a href="http://www.hangukrobot.com/page/sho10.php?spCate1=34">
   <img src="http://www.hangukrobot.com/images/shop/1552886935_WpCo_0.JPG">
 </a>
 
