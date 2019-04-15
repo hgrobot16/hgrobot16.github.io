@@ -6,7 +6,9 @@ author: HG
 categories: Robot
 ---
 
-<img src="https://github.com/hgrobot16/hgrobot16.github.io/blob/master/assets/images/cobotta.png" title="코보타 협업 로봇">
+<a href="https://github.com/hgrobot16/hgrobot16.github.io/blob/master/assets/images/cobotta.png" data-lightbox="cobotta" data-title="코보타 협업 로봇">
+  <img src="https://github.com/hgrobot16/hgrobot16.github.io/blob/master/assets/images/cobotta.png" title="코보타 협업 로봇">
+</a>
 
 자동차부품제조 생산성 향상을 목표로 덴소 로봇의 개발을 시작한지 50년.
 
