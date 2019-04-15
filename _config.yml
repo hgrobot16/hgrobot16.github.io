@@ -72,28 +72,28 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
+    username:
     url:
     desc: Follow me on Twitter
     share: false
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username:
     url:
     desc: Friend me on Facebook
     share: false
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url:
+    username: hgrobot16
+    url: https://github.com/hgrobot16
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
+    username:
     url:
     desc: Connect with me on LinkedIn
     share: false
