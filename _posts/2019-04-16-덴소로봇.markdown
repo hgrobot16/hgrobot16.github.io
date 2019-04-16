@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "고정도 캘리브레이션(Hi-Cal)"
+date:   2019-04-16 13:38:46
+author: HG
+categories: Denso 
+---
+
+<a href="https://www.denso-wave.com/ko/robot/product/function/hi-cal.html">
+  <img src="https://www.denso-wave.com/imageupd/21004/14378_contents4.jpg">
+</a>
+
+로봇의 '절대 정밀도'를 향상시킵니다.
+
+'반복 정밀도'는 티칭된 위치를 얼마나 정확하게 찾아갈 수 있는지를 나타냅니다.
+
+'절대 정밀도'는 현재위치에서 'X방향으로 XX만큼 이동하라'는 명령을 얼마나 정확하게 수행할 수 있는지를 나타냅니다.
+
+'절대 정밀도'는 비전 시스템과 접목 시 중요하게 작용합니다.
