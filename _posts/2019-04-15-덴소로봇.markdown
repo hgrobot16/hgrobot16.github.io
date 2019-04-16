@@ -7,7 +7,7 @@ categories: Denso
 ---
 
 <a href="http://www.hangukrobot.com/page/sho10.php?spCate1=34">
-  <img src="http://www.hangukrobot.com/images/shop/1552886935_WpCo_0.JPG" width="300" height="350">
+  <img src="http://www.hangukrobot.com/images/shop/1552886935_WpCo_0.JPG">
 </a>
 
 자동차부품제조 생산성 향상을 목표로 덴소 로봇의 개발을 시작한지 50년.
@@ -21,4 +21,4 @@ categories: Denso
 
 고객의 요구나 사용법에 따라 끝없이 무한한 가능성을 넓히는 COBOTTA. 그 상상은 끝이 없습니다.
 
-[![Video Label](http://img.youtube.com/vi/rTiIdpZVwTQ/1.jpg)](https://youtu.be/rTiIdpZVwTQ=0s "Video Label")
+[![Video Label](http://img.youtube.com/vi/rTiIdpZVwTQ/0.jpg)](https://youtu.be/rTiIdpZVwTQ=0s "Video Label")
