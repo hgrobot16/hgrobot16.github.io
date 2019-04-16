@@ -7,7 +7,7 @@ categories: Denso
 ---
 
 <a href="http://www.hangukrobot.com/page/sho10.php?spCate1=34">
-  <img src="http://www.hangukrobot.com/images/shop/1552886935_WpCo_0.JPG" width="420" height="469>
+  <img src="http://www.hangukrobot.com/images/shop/1552886935_WpCo_0.JPG" width="300" height="350">
 </a>
 
 자동차부품제조 생산성 향상을 목표로 덴소 로봇의 개발을 시작한지 50년.
