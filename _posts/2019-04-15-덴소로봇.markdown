@@ -3,7 +3,7 @@ layout: post
 title:  "COBOTTA"
 date:   2019-04-15 17:46:59
 author: HG
-categories: Denso Robot
+categories: Denso
 ---
 
 <a href="http://www.hangukrobot.com/page/sho10.php?spCate1=34">
