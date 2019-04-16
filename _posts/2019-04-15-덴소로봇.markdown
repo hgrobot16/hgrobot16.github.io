@@ -19,4 +19,4 @@ categories: Denso
 
 Open platform을 선택하여 다양하고 자유로운 개발환경에서 오리지널 어플리케이션 개발이 가능합니다.
 
-[![동영상 재생](http://img.youtube.com/vi/rTiIdpZVwTQ/0.jpg)](https://youtu.be/rTiIdpZVwTQ=0s "동영상 ")
+[![동영상](http://img.youtube.com/vi/rTiIdpZVwTQ/0.jpg)](https://youtu.be/rTiIdpZVwTQ=0s "동영상 재생")
