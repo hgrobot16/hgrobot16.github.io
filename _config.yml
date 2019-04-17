@@ -48,16 +48,16 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: denso
+  - cat: Denso
     desc: "덴소 로봇"
 
-  - cat: yaskawa
+  - cat: Yaskawa
     desc: "야스카와 로봇, Motoman"
- 
-  - cat: plc
+
+  - cat: PLC
     desc: "PLC"
 
-  - cat: motor
+  - cat: Motor
     desc: "모터"
 
   - cat: ROS
