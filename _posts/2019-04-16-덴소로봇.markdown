@@ -3,7 +3,7 @@ layout: post
 title:  "고정도 캘리브레이션(Hi-Cal)"
 date:   2019-04-16 13:38:46
 author: HG
-categories: enso 
+categories: Denso
 ---
 
 <a href="https://www.denso-wave.com/ko/robot/product/function/hi-cal.html">
