@@ -17,7 +17,7 @@ GETS 명령어로 참조할 수 있습니다.
 표. YRC1000 컨트롤러의 시스템 변수
 
 |No.|Explanation|
-|:---:|:---:|
+|:---:|:---|
 |$B001|Execution series number (0 to 17)|
 |$B002|Detected /Not detected by the optional SRCH/NSRCH instruction <br> 0: Not detected, 1: Detected|
 |$B008|Result of the optional SYSTART instruction <br> 1: Normal termination, 0: Abnormal termination|
