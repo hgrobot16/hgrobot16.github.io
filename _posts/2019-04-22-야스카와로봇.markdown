@@ -22,16 +22,3 @@ YRC1000 컨트롤러의 시스템 변수
 |$B008|Result of the optional SYSTART instruction <br> 1: Normal termination, 0: Abnormal termination|
 |$B009|Result of the SETFILE/GETFILE instruction <br> 0: Normal termination, Other than 0: Abnormal termination|
 |$B014|Result of the optional HSEN instruction <br> 1: Setting status completed, 0: Others|
-|$B016 - 021|The number of RIN#(1 - 6)s detected by the optional NSRCH instruction|
-|$PX000|Current value (pulse type)|
-|$PX001|Current value (XYZ type)|
-|$PX002|Position detected by the optional SRCH instruction (pulse type)|
-|$PX003|Position detected by the optional SRCH instruction (XYZ type)|
-|$PX004|Current value excluding the shift amount (XYZ type)|
-|$PX005|Teaching position (pulse type)|
-|$PX006|Operation target position (pulse type)|
-|$PX007|Current position excluding the shift amount and profiling amount (XYZ type)|
-|$PX008|F/B pulse → current value (XYZ type)|
-|$PX010|F/B pulse|
-|$PX011 - 018|Teaching position by REFP 1 - 8 instruction (pulse type)|
-|$PX021 - 028|Teaching position by SREFP 1 - 8 instruction (pulse type)|
