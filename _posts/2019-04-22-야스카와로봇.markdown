@@ -18,7 +18,7 @@ GETS 명령어로 참조할 수 있습니다.
 |:---:|:---:|:---:|
 |$B type variable|Byte type|$B002|Specifies detected/not detected of the SRCH instruction <br> 0: Not detected, 1: Detected|
 |$PX type variable|Expanded position type|$PX002|Position detected by the optional SRCH instruction (pulse type)|
-|||$PX002|Position detected by the optional SRCH instruction (pulse type)|
-|||$PX003|Position detected by the optional SRCH instruction (XYZ type)|
-|||$PX011 - 018|Teaching position by REFP 1 - 8 instruction (pulse type)|
-|||$PX021 - 028|Teaching position by SREFP 1 - 8 instruction (pulse type)|
+|$PX type variable|Expanded position type|$PX002|Position detected by the optional SRCH instruction (pulse type)|
+|$PX type variable|Expanded position type|$PX003|Position detected by the optional SRCH instruction (XYZ type)|
+|$PX type variable|Expanded position type|$PX011 - 018|Teaching position by REFP 1 - 8 instruction (pulse type)|
+|$PX type variable|Expanded position type|$PX021 - 028|Teaching position by SREFP 1 - 8 instruction (pulse type)|
