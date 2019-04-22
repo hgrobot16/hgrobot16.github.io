@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "야스카와 로봇 'GETS' 명령어"
+date:   2019-04-22 12:19:59
+author: HG
+categories: Yaskawa
+---
+
+GETS <Data 1> <Data 2>
+
+Data 2에 있는 시스템 변숫값을 Data 1에 저장합니다.
+
+시스템 변수 (ex. YRC 1000 컨트롤러)
+시스템 변수는 컨트롤러에 의해 기록되는 변수입니다.
+GETS 명령어로 참조할 수 있습니다.
+
+|System variable|Type|No.|Explanation|
+|:---:|:---:|:---:|
+|$B type variable|Byte type|$B002|Specifies detected/not detected of the SRCH instruction 0: Not detected, 1: Detected|
+|$PX type variable|Expanded position type|$PX002|Position detected by the optional SRCH instruction (pulse type)|
