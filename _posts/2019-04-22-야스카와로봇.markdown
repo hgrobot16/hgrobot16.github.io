@@ -15,7 +15,7 @@ Data 2에 있는 시스템 변수값을 Data 1에 저장합니다.
 GETS 명령어로 참조할 수 있습니다.  
 <br>
 <br>
-표. YRC1000 컨트롤러의 시스템 변수<br>
+표. YRC1000 컨트롤러의 시스템 변수  
 |No.|Explanation|
 |:---:|:---|
 |$B001|Execution series number (0 to 17)|
